@@ -1,0 +1,16 @@
+client/node_modules
+server/node_modules
+client/public/vendor
+client/public/build
+client/public/compiled
+
+logs
+*.log
+
+.lock-wscript
+/.idea/
+*.editorconfig
+
+client/build
+
+server/src/data
